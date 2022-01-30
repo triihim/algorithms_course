@@ -52,6 +52,8 @@
     "set": "cpp",
     "numeric": "cpp",
     "deque": "cpp",
-    "queue": "cpp"
+    "queue": "cpp",
+    "unordered_set": "cpp",
+    "xhash": "cpp"
   }
 }
